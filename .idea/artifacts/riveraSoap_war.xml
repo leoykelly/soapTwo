@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="riveraSoap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="rivera10.war">
+      <element id="artifact" artifact-name="riveraSoap:war exploded" />
+    </root>
+  </artifact>
+</component>
